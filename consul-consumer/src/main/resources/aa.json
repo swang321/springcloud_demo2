@@ -1,0 +1,24 @@
+[
+  {
+    "serviceId": "consul-service-producer",
+    "host": "localhost",
+    "port": 8088,
+    "secure": false,
+    "metadata": {
+      "secure": "false"
+    },
+    "uri": "http://localhost:8088",
+    "scheme": null
+  },
+  {
+    "serviceId": "consul-service-producer",
+    "host": "localhost",
+    "port": 8089,
+    "secure": false,
+    "metadata": {
+      "secure": "false"
+    },
+    "uri": "http://localhost:8089",
+    "scheme": null
+  }
+]
